@@ -46,6 +46,11 @@
       "scheme": "url"
     },
     {
+      "identifier": "https://zenodo.org/records/20733022",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    },    
+    {
       "identifier": "https://huggingface.co/datasets/bhmarketer-ai/ghostindex-benchmarks",
       "relation": "isSupplementTo",
       "scheme": "url"
