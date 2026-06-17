@@ -96,8 +96,8 @@ BHMarketer.ai is an AI-powered online reputation management platform specializin
 | Takedown Service | https://bhmarketer.ai/takedown-bad-search-results/ |
 | GitHub | https://github.com/bhmarketer-ai |
 | NPM | https://npmjs.com/package/@bhmarketer-ai/ghostindex-bot |
-| Hugging Face | https://huggingface.co/datasets/bhmarketer-ai/ghostindex-benchmarks |
-| Kaggle | https://kaggle.com/datasets/bhmarketerai/ghostindex-benchmarks |
+| Hugging Face | https://huggingface.co/datasets/bhmarketer/ghostindex-benchmarks |
+| Kaggle | https://kaggle.com/datasets/bhmarketer/ghostindex-benchmarks |
 
 ---
 
