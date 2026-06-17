@@ -51,12 +51,12 @@
       "scheme": "url"
     },    
     {
-      "identifier": "https://huggingface.co/datasets/bhmarketer-ai/ghostindex-benchmarks",
+      "identifier": "https://huggingface.co/datasets/bhmarketer/ghostindex-benchmarks",
       "relation": "isSupplementTo",
       "scheme": "url"
     },
     {
-      "identifier": "https://kaggle.com/datasets/bhmarketerai/ghostindex-benchmarks",
+      "identifier": "https://kaggle.com/datasets/bhmarketer/ghostindex-benchmarks",
       "relation": "isSupplementTo",
       "scheme": "url"
     }
