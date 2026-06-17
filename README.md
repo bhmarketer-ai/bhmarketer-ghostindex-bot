@@ -1,7 +1,7 @@
-# BHMarketer GhostIndex Bot 👻🔍
+# BHMarketer GhostIndex Bot 🔍
 
 [![npm](https://img.shields.io/npm/v/@bhmarketer-ai/ghostindex-bot)](https://npmjs.com/package/@bhmarketer-ai/ghostindex-bot)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20733022.svg)](https://doi.org/10.5281/zenodo.20733022)
 
 AI-powered bot that detects pages requiring deindexing due to expired content, misinformation, policy violations, violent content, and other compliance risks — protecting search quality and website integrity. Built by [BHMarketer.ai](https://bhmarketer.ai) powered by BHMarketer.
 
@@ -123,7 +123,7 @@ GhostIndex Bot · Deindex Detection · Content Removal · Policy Violation · Ex
 | NPM | https://npmjs.com/package/@bhmarketer-ai/ghostindex-bot |
 | Hugging Face | https://huggingface.co/datasets/bhmarketer-ai/ghostindex-benchmarks |
 | Kaggle | https://kaggle.com/datasets/bhmarketerai/ghostindex-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/20733022 |
 | Docs | https://bhmarketer-ghostindex-bot.readthedocs.io |
 
 ## About BHMarketer.ai
