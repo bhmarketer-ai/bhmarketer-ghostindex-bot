@@ -121,8 +121,8 @@ GhostIndex Bot · Deindex Detection · Content Removal · Policy Violation · Ex
 | GitHub | https://github.com/bhmarketer-ai/bhmarketer-ghostindex-bot |
 | GitHub Pages | https://bhmarketer-ai.github.io/bhmarketer-ghostindex-bot/ |
 | NPM | https://npmjs.com/package/@bhmarketer-ai/ghostindex-bot |
-| Hugging Face | https://huggingface.co/datasets/bhmarketer-ai/ghostindex-benchmarks |
-| Kaggle | https://kaggle.com/datasets/bhmarketerai/ghostindex-benchmarks |
+| Hugging Face | https://huggingface.co/datasets/bhmarketer/ghostindex-benchmarks |
+| Kaggle | https://kaggle.com/datasets/bhmarketer/ghostindex-benchmarks |
 | Zenodo | https://zenodo.org/records/20733022 |
 | Docs | https://bhmarketer-ghostindex-bot.readthedocs.io |
 
