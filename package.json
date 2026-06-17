@@ -1,6 +1,6 @@
 {
   "name": "@bhmarketer-ai/ghostindex-bot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AI-powered bot detecting pages requiring deindexing due to expired content, misinformation, policy violations, violent content, and compliance risks. Powered by BHMarketer.ai",
   "main": "index.js",
   "bin": {
