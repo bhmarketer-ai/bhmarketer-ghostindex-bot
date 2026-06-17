@@ -1,0 +1,21 @@
+id,url,violation_type,expired_content_score,misinformation_score,policy_violation_score,violent_content_score,compliance_risk_score,deindex_priority_score,deindex_recommendation,estimated_processing,industry,notes
+1,https://example.com/old-blog-2019,expired,85,40,60,20,55,52,MEDIUM — Review and optimize,3-7 days,Blog,Outdated content no longer relevant
+2,https://example.com/false-claims,misinformation,30,92,75,25,80,60,MEDIUM — Review and optimize,1-5 days,News,Contains factual inaccuracies
+3,https://example.com/spam-page,policy,45,55,88,30,75,59,MEDIUM — Review and optimize,2-5 days,SEO,Keyword stuffing violation
+4,https://example.com/violent-content,violent,25,35,70,95,85,62,HIGH — Submit removal request immediately,1-3 days,Social,Violent imagery detected
+5,https://example.com/expired-product,expired,90,30,50,15,45,46,MEDIUM — Review and optimize,3-7 days,Ecommerce,Discontinued product page
+6,https://example.com/fake-news,misinformation,35,95,80,20,85,63,HIGH — Submit removal request immediately,1-5 days,Media,Fabricated news article
+7,https://example.com/cloaked-page,policy,40,50,92,25,80,57,MEDIUM — Review and optimize,2-5 days,SEO,Cloaking violation detected
+8,https://example.com/hate-speech,violent,20,60,85,98,90,71,HIGH — Submit removal request immediately,1-3 days,Forum,Hate speech content
+9,https://example.com/outdated-guide,expired,88,25,45,10,40,42,MEDIUM — Review and optimize,3-7 days,Education,Guide no longer accurate
+10,https://example.com/conspiracy,misinformation,30,98,78,35,88,66,HIGH — Submit removal request immediately,1-5 days,Blog,Conspiracy theory content
+11,https://example.com/link-farm,policy,35,40,95,20,82,54,MEDIUM — Review and optimize,2-5 days,SEO,Unnatural link scheme
+12,https://example.com/abuse-content,violent,15,45,80,96,88,65,HIGH — Submit removal request immediately,1-3 days,Social,Abusive content detected
+13,https://example.com/old-news-2018,expired,92,30,48,12,42,45,MEDIUM — Review and optimize,3-7 days,News,Outdated news article
+14,https://example.com/medical-misinformation,misinformation,25,96,82,30,90,65,HIGH — Submit removal request immediately,1-5 days,Health,Dangerous medical misinformation
+15,https://example.com/doorway-page,policy,38,42,90,18,78,53,MEDIUM — Review and optimize,2-5 days,SEO,Doorway page violation
+16,https://example.com/graphic-violence,violent,18,38,75,99,88,64,HIGH — Submit removal request immediately,1-3 days,Media,Graphic violent content
+17,https://example.com/expired-event,expired,95,22,42,8,38,41,LOW — Monitor only,3-7 days,Events,Past event page
+18,https://example.com/scam-claims,misinformation,28,94,85,22,88,63,HIGH — Submit removal request immediately,1-5 days,Finance,Fraudulent financial claims
+19,https://example.com/thin-content,policy,42,35,88,15,72,50,MEDIUM — Review and optimize,2-5 days,Blog,Thin content violation
+20,https://example.com/terrorist-content,violent,10,50,92,100,95,69,HIGH — Submit removal request immediately,1-3 days,Security,Terrorist content detected
