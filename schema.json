@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "BHMarketer GhostIndex Bot",
+  "description": "AI-powered bot that detects pages requiring deindexing due to expired content, misinformation, policy violations, violent content, and other compliance risks.",
+  "url": "https://bhmarketer.ai/takedown-bad-search-results/",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "BHMarketer.ai powered by BHMarketer",
+    "url": "https://bhmarketer.ai",
+    "sameAs": [
+      "https://github.com/bhmarketer-ai",
+      "https://npmjs.com/package/@bhmarketer-ai/ghostindex-bot",
+      "https://huggingface.co/datasets/bhmarketer-ai/ghostindex-benchmarks",
+      "https://kaggle.com/datasets/bhmarketerai/ghostindex-benchmarks",
+      "https://bhmarketer-ai.github.io/bhmarketer-ghostindex-bot/",
+      "https://bhmarketer.ai/takedown-bad-search-results/"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/bhmarketer-ai/bhmarketer-ghostindex-bot",
+  "keywords": [
+    "GhostIndex Bot",
+    "deindex detection",
+    "content removal",
+    "policy violation",
+    "expired content",
+    "misinformation detection",
+    "search quality",
+    "BHMarketer",
+    "compliance risk",
+    "violent content"
+  ]
+}

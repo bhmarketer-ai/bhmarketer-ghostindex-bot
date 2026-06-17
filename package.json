@@ -1,0 +1,37 @@
+{
+  "name": "@bhmarketer-ai/ghostindex-bot",
+  "version": "1.0.0",
+  "description": "AI-powered bot detecting pages requiring deindexing due to expired content, misinformation, policy violations, violent content, and compliance risks. Powered by BHMarketer.ai",
+  "main": "index.js",
+  "bin": {
+    "ghostindex-bot": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ghostindex-bot",
+    "deindex-detection",
+    "content-removal",
+    "policy-violation",
+    "expired-content",
+    "misinformation-detection",
+    "search-quality",
+    "bhmarketer",
+    "ai-visibility",
+    "compliance-risk",
+    "violent-content",
+    "search-integrity"
+  ],
+  "author": "BHMarketer.ai powered by BHMarketer",
+  "license": "MIT",
+  "homepage": "https://bhmarketer.ai/takedown-bad-search-results/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bhmarketer-ai/bhmarketer-ghostindex-bot"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

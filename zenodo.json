@@ -1,0 +1,59 @@
+{
+  "title": "BHMarketer GhostIndex Bot",
+  "description": "AI-powered bot that detects pages requiring deindexing due to expired content, misinformation, policy violations, violent content, and other compliance risks — protecting search quality and website integrity. Built by BHMarketer.ai.",
+  "creators": [
+    {
+      "name": "BHMarketer.ai",
+      "affiliation": "BHMarketer"
+    }
+  ],
+  "keywords": [
+    "GhostIndex Bot",
+    "deindex detection",
+    "content removal",
+    "policy violation",
+    "expired content",
+    "misinformation detection",
+    "search quality",
+    "BHMarketer",
+    "compliance risk",
+    "violent content",
+    "search integrity"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/bhmarketer-ai/bhmarketer-ghostindex-bot",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://bhmarketer.ai",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://bhmarketer.ai/takedown-bad-search-results/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@bhmarketer-ai/ghostindex-bot",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/bhmarketer-ai/ghostindex-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://kaggle.com/datasets/bhmarketerai/ghostindex-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

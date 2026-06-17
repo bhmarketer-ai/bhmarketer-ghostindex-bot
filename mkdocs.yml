@@ -1,0 +1,21 @@
+site_name: BHMarketer GhostIndex Bot
+site_url: https://bhmarketer-ghostindex-bot.readthedocs.io
+site_description: AI-powered bot detecting pages requiring deindexing due to expired content, misinformation, policy violations, violent content, and compliance risks.
+site_author: BHMarketer.ai
+
+repo_name: bhmarketer-ai/bhmarketer-ghostindex-bot
+repo_url: https://github.com/bhmarketer-ai/bhmarketer-ghostindex-bot
+
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: orange
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
